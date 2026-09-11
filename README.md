@@ -46,8 +46,6 @@ Snipra is free. Optional support: [tips.tips](https://tips.tips/000483530).
 
 ---
 
-## По-русски
-
 Быстрый локальный скриншотер для Windows.
 
 ### Возможности
