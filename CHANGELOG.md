@@ -4,7 +4,7 @@ All notable changes to Snipra are documented here. The format follows [Keep a Ch
 
 ## [Unreleased]
 
-## [0.1.0] - 2026-09-11
+## [1.0.0] - 2026-09-11
 
 ### Added
 - Tray-based capture for current monitor, active window, selected window, and all monitors.
