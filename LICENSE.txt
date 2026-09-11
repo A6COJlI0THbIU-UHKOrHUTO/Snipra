@@ -1,0 +1,16 @@
+SNIPRA FREEWARE LICENSE
+Version 1.0, 11 September 2026
+
+Copyright (c) 2026 АБСОЛЮТНЫЙ ИНКОГНИТО. All rights reserved.
+
+Permission is granted to download and use unmodified official Snipra release archives and their contents free of charge for personal and commercial purposes.
+
+You may redistribute an exact, unmodified official release archive if it is provided free of charge, is not bundled with other software, and is not presented as your own product.
+
+This license does not grant access to or rights in the private Snipra desktop source code. Browser extensions necessarily contain readable JavaScript; that visibility does not grant permission to modify, repackage, sell, sublicense, or create derivative works except where applicable law expressly permits otherwise.
+
+Donations are optional and do not unlock features or create additional license rights.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE COPYRIGHT HOLDER IS NOT LIABLE FOR ANY CLAIM, DAMAGE, OR OTHER LIABILITY ARISING FROM THE SOFTWARE OR ITS USE.
+
+Third-party components remain subject to their respective licenses. See THIRD_PARTY_NOTICES.md.

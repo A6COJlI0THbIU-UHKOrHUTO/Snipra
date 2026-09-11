@@ -1,0 +1,50 @@
+name: Bug report
+description: Report a reproducible Snipra problem
+title: '[Bug] '
+labels: [bug]
+body:
+  - type: input
+    id: version
+    attributes:
+      label: Snipra version
+      placeholder: 0.1.0
+    validations:
+      required: true
+  - type: input
+    id: windows
+    attributes:
+      label: Windows version
+      placeholder: Windows 11 24H2
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: Do not attach private screenshots or personal data.
+      placeholder: "1. ...\n2. ...\n3. ..."
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual behavior
+    validations:
+      required: true
+  - type: input
+    id: displays
+    attributes:
+      label: Displays and scaling
+      placeholder: Two monitors, 1920×1080 at 100% and 2560×1440 at 150%
+  - type: textarea
+    id: log
+    attributes:
+      label: Relevant log excerpt
+      description: Remove usernames, paths, window titles, and other private data first.
+      render: text
