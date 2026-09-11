@@ -6,10 +6,6 @@
 
 <p align="center">A fast, local screenshot utility for Windows.</p>
 
-<p align="center">
-  Windows 10/11 · No cloud · No account · No telemetry
-</p>
-
 <p align="center"><a href="../../releases/latest"><b>Download the latest release</b></a></p>
 
 [Русская версия](README.ru.md)
@@ -23,7 +19,6 @@
 - Separate full-resolution documents for multi-monitor captures.
 - Local text recognition through Windows OCR.
 - Eight interface languages and light/dark themes.
-- Chrome/Edge extension for visible-page capture.
 
 ## Install
 
@@ -35,10 +30,6 @@
 
 Snipra is portable and self-contained. Windows may show a SmartScreen warning until the executable is code-signed.
 
-## Browser extension
-
-Download `Snipra-browser-extension.zip`, extract it, then load the folder as an unpacked extension in Chrome or Edge developer mode. It requests only `activeTab` and `downloads`.
-
 ## Privacy
 
 Screenshots, settings, and OCR stay on the device. There are no accounts, analytics, telemetry, cloud uploads, or background network requests. Read [PRIVACY.md](PRIVACY.md) for details.
@@ -49,8 +40,8 @@ Use the issue templates for reproducible bugs and screenshot-focused feature req
 
 ## License
 
-Official binaries are freeware; see [LICENSE.txt](LICENSE.txt). The desktop source code is private and is not published in this repository. Browser extensions contain readable JavaScript by design; the freeware license does not grant reuse or modification rights.
+Official binaries are freeware; see [LICENSE.txt](LICENSE.txt). The desktop source code is private and is not published in this repository.
 
 ## Support development
 
-Snipra is fully free and donations never unlock features. Optional support: [tips.tips](https://tips.tips/ru/000483530).
+Snipra is free. Optional support: [tips.tips](https://tips.tips/ru/000483530).

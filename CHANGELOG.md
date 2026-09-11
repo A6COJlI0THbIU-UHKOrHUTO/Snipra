@@ -13,7 +13,6 @@ All notable changes to Snipra are documented here. The format follows [Keep a Ch
 - Per-monitor editor documents and a monitor switcher.
 - Local Windows OCR with selectable text blocks.
 - Theme, accent, language, hotkey, filename, cursor, and startup settings.
-- Chrome/Edge extension for visible-area capture.
 - English, Russian, German, Spanish, French, Ukrainian, Chinese, and Japanese UI.
 
 ### Privacy

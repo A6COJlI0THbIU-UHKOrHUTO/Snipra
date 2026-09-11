@@ -11,13 +11,6 @@ Snipra is designed to work locally.
 - Snipra has no analytics, telemetry, user accounts, cloud gallery, or remote API.
 - The only external link is the optional `tips.tips` support page, opened in the default browser after an explicit click.
 
-## Browser extension
-
-- Captures only the visible area of the active HTTP/HTTPS tab after a user action.
-- Saves the image through the browser Downloads API.
-- Does not upload, analyze, or retain screenshots.
-- Requests only `activeTab` and `downloads`.
-
 ## Contact
 
 For privacy questions, open a GitHub issue without including private screenshots or personal data.
