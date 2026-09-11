@@ -21,12 +21,12 @@
 ## Install
 
 1. Open the [latest Release](../../releases/latest).
-2. Download `Snipra-win-x64.zip`.
+2. Download `Snipra-Setup-win-x64.exe`.
 3. Compare its SHA-256 value with `SHA256SUMS.txt`.
-4. Extract the archive and run `Snipra.exe`.
+4. Run the installer — no administrator rights required. Autostart and shortcuts are optional checkboxes.
 5. Choose the screenshot folder on first launch.
 
-Snipra is portable and self-contained. Windows may show a SmartScreen warning until the executable is code-signed.
+Windows may show a SmartScreen warning until the executable is code-signed.
 
 ## Privacy
 
@@ -63,12 +63,12 @@ Snipra is free. Optional support: [tips.tips](https://tips.tips/000483530).
 ### Установка
 
 1. Открой [последний Release](../../releases/latest).
-2. Скачай `Snipra-win-x64.zip`.
+2. Скачай `Snipra-Setup-win-x64.exe`.
 3. Сверь SHA-256 с `SHA256SUMS.txt`.
-4. Распакуй архив и запусти `Snipra.exe`.
+4. Запусти установщик — права администратора не нужны. Автозапуск и ярлыки — необязательные галочки.
 5. При первом запуске выбери папку снимков.
 
-Snipra работает без установщика и содержит нужный .NET Runtime. До подписания файла Windows может показывать предупреждение SmartScreen.
+До подписания файла Windows может показывать предупреждение SmartScreen.
 
 ### Приватность
 
