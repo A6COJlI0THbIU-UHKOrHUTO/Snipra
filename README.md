@@ -40,10 +40,6 @@ Use the issue templates for reproducible bugs and screenshot-focused feature req
 
 Official binaries are freeware; see [LICENSE.txt](LICENSE.txt). The desktop source code is private and is not published in this repository.
 
-## Support development
-
-Snipra is free. Optional support: [tips.tips](https://tips.tips/000483530).
-
 ---
 
 Быстрый локальный скриншотер для Windows.
@@ -79,7 +75,3 @@ Snipra is free. Optional support: [tips.tips](https://tips.tips/000483530).
 ### Лицензия
 
 Официальные сборки распространяются как freeware по [LICENSE.txt](LICENSE.txt). Исходный код приватный и в этом репозитории не публикуется.
-
-### Поддержать разработку
-
-Snipra бесплатна. [tips.tips](https://tips.tips/000483530).
